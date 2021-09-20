@@ -5,8 +5,7 @@ namespace teszt
     class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
+        {cw l;deo2e
         }
     }
 }
